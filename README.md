@@ -9,7 +9,7 @@
 
 # GIF Example
 
-![GIF](https://github.com/me50/gilberpl/blob/gilberpl-readme/WebScraper.gif)
+![GIF](https://github.com/gilberpl/shoe-price-bot/blob/master/WebScraper.gif)
 
 # Example Code
 
