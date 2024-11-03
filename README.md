@@ -4,8 +4,8 @@
 
 > This program searches two websites for the price of shoes using selenium. After grabbing the price of the shoes using HTML path, it will send a text to the users phone using twilio. Lastly, the program will send a notification if either websites price drops to $60.00 or below. This notification includes a link to the shoes so that they can be immediately purchased. 
 
-* The links where gathered manually by finding the same shoe on each website
-* There are stronger ways to get the price from the HTML this was my method
+* The links were gathered manually by finding the same shoe on each website
+* There are more dynamic ways to get the price from the HTML this was my first attempty at a method
 
 # GIF Example
 
